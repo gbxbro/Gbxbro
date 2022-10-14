@@ -12,3 +12,7 @@
       <li>Adobe PS, Figma, и.т.д.</li>
    </ul>
 </p>
+
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbxbro&layout=compact&theme=merko">
